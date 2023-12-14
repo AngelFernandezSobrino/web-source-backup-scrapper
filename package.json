@@ -1,0 +1,15 @@
+{
+  "name": "inseleg-web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "website-scraper": "^5.2.0",
+    "website-scraper-puppeteer": "^1.0.0"
+  }
+}
